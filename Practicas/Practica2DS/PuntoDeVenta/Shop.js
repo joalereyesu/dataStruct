@@ -1,6 +1,6 @@
 import {Catalog, getCatalog} from './modules/Catalog.js';
 
-const Cart = {
+export const Cart = {
     cart: [],
     payments: [],
     addMyProducts: function(index) {
@@ -19,7 +19,7 @@ const Cart = {
         return this.cartTotal()/index;
     },
     getPaymentsTotal: function() {
-        let = sum =0;
+        let sum =0;
         for (let i in this.payments){
             sum = sum + this.payments[i];
         }
@@ -58,7 +58,8 @@ const Cart = {
 
     deletePayment: function(index) {
         let payment2 = [];
-        for (let i, j in this.payment) {
+        let j = 0;
+        for (let i in this.payment) {
             if (i == index) {
                 continue;
             }
@@ -68,6 +69,3 @@ const Cart = {
         return "The payment has been succesfully deleted!";
     }
 }
-
-
-
