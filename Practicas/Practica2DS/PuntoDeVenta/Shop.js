@@ -7,6 +7,7 @@ export const Cart = {
         for (let j in index){
             this.cart.push(Catalog[index[j]]);
         }
+            return this.cart;
     },
     getCartTotal: function() {
         let sum = 0;
