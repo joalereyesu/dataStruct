@@ -23,4 +23,4 @@ En esta practica se construyo un API para hacer distintas llamadas y se implemen
 ## Proyecto
 El proyecto consistira de una pagina web en donde una promotora llamada **FUNPromotions** venderá entradas a sus usuarios a distintos conciertos. Cada concierto tendra sus distintas localidades, lineup, precios, cantidad de entras y muchas otras mas. 
 
-El proyecto se encuentra en un repositorio aparte de [Github:](https://github.com/joalereyesu/FUNPromotions.git)
+El proyecto se encuentra en un repositorio aparte de [Github: FunPromotion](https://github.com/joalereyesu/FUNPromotions.git)
