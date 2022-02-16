@@ -19,3 +19,8 @@ En esta practica se realizo un algoritmo donde muestra la nota final de acuerdo 
 En la tercera practica es un sistema en donde se guardan los atributos en una clase de figuras y en la clase existen metodos en donde identifica el tipo de figura y calcula su respectiva area. Se adjunta en la practica una prueba unitaria, profiling y un video de ejecucion. 
 - **[Practica 4:](Practicas/Practica4DS)**
 En esta practica se construyo un API para hacer distintas llamadas y se implementan Linked Lists para la funcion de playlist de musica.
+
+## Proyecto
+El proyecto consistira de una pagina web en donde una promotora llamada **FUNPromotions** venderá entradas a sus usuarios a distintos conciertos. Cada concierto tendra sus distintas localidades, lineup, precios, cantidad de entras y muchas otras mas. 
+
+El proyecto se encuentra en un repositorio aparte de [Github:](https://github.com/joalereyesu/FUNPromotions.git)
