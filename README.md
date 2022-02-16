@@ -15,3 +15,7 @@ En esta practica se realizo un algoritmo donde muestra la nota final de acuerdo 
     Algoritmo que permite llevar el control de debitos y creditos varios utilizando arreglos. Se ofrecen varias funcionalidades. El lenguaje que se utilizo fue             Java. Tambien se adjunta en la practica una prueba de unidad, profiling y un video de ejecucion satisfactorio.
     - **[Punto de Venta:](Practicas/Practica2DS/PuntoDeVenta)**
     Algoritmo que permite crear un Recibo de Compra utilizando arreglos con elementos de instancias de clase. El lenguaje que se utilizo fue JavaScript. Se adjunta en la practica una prueba de unidad, profiling y un video de ejecucion satisfactorio.
+- **[Practica 3:](Practicas/Practicas3DS)**
+En la tercera practica es un sistema en donde se guardan los atributos en una clase de figuras y en la clase existen metodos en donde identifica el tipo de figura y calcula su respectiva area. Se adjunta en la practica una prueba unitaria, profiling y un video de ejecucion. 
+- **[Practica 4:](Practicas/Practicas4DS)**
+En esta practica se construyo un API para hacer distintas llamadas y se implementan Linked Lists para la funcion de playlist de musica.
