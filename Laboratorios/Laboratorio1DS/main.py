@@ -3,6 +3,8 @@ from typing import Optional
 from fastapi import FastAPI
 from pydantic import BaseModel
 
+from Stacks import Stack
+
 
 class Item(BaseModel):
     name: str
@@ -21,6 +23,8 @@ async def root():
 
 @app.get("/username/{username}")
 async def read_item(username: str):
+    Stack.push(username)
+    print(Stack.get_stack())
     return {"username": username}
 
 
