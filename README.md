@@ -18,6 +18,8 @@ En esta practica se realizo un algoritmo donde muestra la nota final de acuerdo 
 En la tercera practica es un sistema en donde se guardan los atributos en una clase de figuras y en la clase existen metodos en donde identifica el tipo de figura y calcula su respectiva area. Se adjunta en la practica una prueba unitaria, profiling y un video de ejecucion. 
 - **[Practica 4:](Practicas/Practica4DS)**
 En esta practica se construyo un API para hacer distintas llamadas y se implementan Linked Lists para la funcion de playlist de musica.
+- **[Practica 5:](Practicas/PracticaAVLTree)**
+En esta practrica se encuentra el codigo de un arbol AVL. 
 
 ## Laboratorios
 - **[Laboratorio 1:](Laboratorios/Laboratorio1DS)**
