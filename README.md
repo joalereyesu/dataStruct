@@ -20,6 +20,8 @@ En la tercera practica es un sistema en donde se guardan los atributos en una cl
 En esta practica se construyo un API para hacer distintas llamadas y se implementan Linked Lists para la funcion de playlist de musica.
 - **[Practica 5:](Practicas/PracticaAVLTree)**
 En esta practrica se encuentra el codigo de un arbol AVL. 
+- **[Practica 6:](Practicas/PracticaHeaps)**
+En esta practrica se encuentra un binomial heap. 
 
 ## Laboratorios
 - **[Laboratorio 1:](Laboratorios/Laboratorio1DS)**
